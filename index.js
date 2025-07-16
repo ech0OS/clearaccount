@@ -42,4 +42,4 @@ client.on('ready', async () => {
     console.log(`Fim: ${messagesDeleted} mensagens apagadas da DM.`);
 });
 
-client.login("");
+client.login("SEU TOKEN");
